@@ -58,3 +58,10 @@ body
     text-align: center;
     padding: 0.5em;
 }
+
+h4{
+    text-align: justify;
+    color: lightslategray;
+    font-size: .9em;
+    font-weight: lighter;
+}
